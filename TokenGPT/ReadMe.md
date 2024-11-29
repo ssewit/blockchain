@@ -3,7 +3,7 @@
 
 TokenGPT is an innovative AI assistant designed to streamline and enhance blockchain research and development processes. By leveraging the power of advanced language models, TokenGPT provides real-time assistance, code generation, and insightful analysis, making it an invaluable tool for blockchain developers and researchers.
 
-##Key Features of TokenGPT:
+## Key Features of TokenGPT:
 
 Code Generation: Generate high-quality, efficient, and secure blockchain code snippets.
 
@@ -15,7 +15,7 @@ Natural Language Queries: Interact with the AI assistant using natural language 
 
 Real-time Feedback: Receive immediate feedback and suggestions on your blockchain projects.
 
-##How to Use TokenGPT:
+## How to Use TokenGPT:
 
 Prepare Your Development Environment:
 Ensure you have the necessary tools and libraries installed, such as Python, a suitable IDE, and blockchain development frameworks like Ethereum, Solana, or others.
@@ -43,7 +43,7 @@ Install Python
 Install pip
 ```
 Set up a Virtual Environment
-##1.	Check if Python is already installed:
+#### 1.	Check if Python is already installed:
 Open a terminal window (search for "Terminal" in your applications menu).
 Type the following command and press Enter:
 ```
@@ -51,10 +51,10 @@ python3 --version
 ```
 •	If the command displays the Python version information (e.g., Python 3.x.x), then Python is already installed.
 •	If the command returns an error message like "command not found," Python is not installed.
-##2.	Install Python if needed (using Ubuntu as an example):
+#### 2.	Install Python if needed (using Ubuntu as an example):
 If you need to install Python, follow these steps (specific instructions might differ slightly for other operating systems):
 •	Visit this guide for detailed instructions on installing Python on Ubuntu: https://www.makeuseof.com/install-python-ubuntu/
-3.	Verify Python installation (after installation):
+#### 3.	Verify Python installation (after installation):
 Once you (potentially) installed Python, return to the terminal window and run the following command again:
 ```
 $python3 –version
