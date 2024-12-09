@@ -105,7 +105,7 @@ $source ~/.bashrc
 
 ## Test virtual environment 
 ```
-$mkvirtualenv CS589
+$mkvirtualenv CS572
 ``` 
 Get OpenAI API keys Sign up an account: https://openai.com/product and create a new secret key under API Keys menu item
  
@@ -121,7 +121,7 @@ Save your key by copying as you will use it in setting up the connection
 
 ## Install Python openai 
 ``` 
-$workon CS589 
+$workon CS572 
 $pip install openai
 ```
 
